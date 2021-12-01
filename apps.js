@@ -1,6 +1,6 @@
-// integer 23 is store in variable myAge
+// number 23 is store in variable myAge
 const myAge = 23;
-//integer 2 is stored in variable earlyYears
+//number 2 is stored in variable earlyYears
 let earlyYears = 2;
 
 earlyYears *= 10.5;
@@ -13,7 +13,7 @@ laterYears *=4;
 console.log(earlyYears);
 console.log(laterYears);
 
-//the results  of the addition of integers stored in variables earlyYears and laterYears is stored in myAgeInDogYears variable.
+//the results  of the addition of numbers stored in variables earlyYears and laterYears is stored in myAgeInDogYears variable.
 let myAgeInDogYears= earlyYears + laterYears;
 //.toLowercase converts the string stored in myName variable to lowercase
 let myName = 'Nana Kwesi Manu Boafo'.toLowerCase();
